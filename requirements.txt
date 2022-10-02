@@ -1,0 +1,5 @@
+fuzzywuzzy
+flask
+gunicorn
+requests
+pandas
