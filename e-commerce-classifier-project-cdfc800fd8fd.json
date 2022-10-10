@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "e-commerce-classifier-project",
+  "private_key_id": "cdfc800fd8fd436ebf617fcf176e087e1f1d65d3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC6FmG5UXIPdTFu\nJqtFk00afbH0SysVrtkvTltdk9e8Urx+ab4mlFhNHLxeXmsn5ex+BR9ZU9XGOyAw\nQ9SUpaDpmYZjO1yFMSZ++JCaXqnkP8vCOPC940wiqtZyfne6TJGnnsEuMF+ZG9qo\nNkNfRkPQymE9cDMi5zFK6hmSlfb4qNb6gvdrfl0rtkpjmpoxbGJtmVwxF1GRYu1Y\nnazd3zMroAl1MsjNuwvmN86DMdIB01UZLukn9vy0HrxrENE8D8iTGp9Szvy5GSda\n3cEtaTFkyhQ8v5KovTLKfGIPbVJ9rxMb++7brh3B8HE6lV+qbfQI/CFAbMXl3GaW\nppu4g27lAgMBAAECggEANQvQS72V4CYuMxI+3JSC9DxEkDklTQcMzllt3h0Y8Iw9\nQ2PtWp4LFeBNKjGMJlF6uunG5/XoCJwuLtQHM2CLoEutbXgshaNfL+63eenmUDSH\nZxRIPDkhKPi+LOE0TB0roDa3Ju2PMtwn1q+xQOWMy2YFljf3u8lf2dUl+Q1a28L4\njannDDQknyguBEOzwvebwmzzWMR/UZd4DPGhVa3HpHsPBaQQDg4BEQifQwgA5Pfm\nWIygcJao3QhtsnoNj6ILzu5Cfr8Io+71EuavbjrHqJc/CxlTuqOG9vZkHL/wDreU\n4nWO+MmE8LDP3AtyOToEB9IfACxEdwWQj0NVH84geQKBgQDwoOS/3wXF5uDLMlb6\nTQvNPrxmeSxlTm2Gn5Wscsm4jBBG7qzgTjUuPhuIRIZ9ZP2zcpSwVbtBiNg+WJXQ\nSA8NoeW2LtkESjoZvHaaJfdJm6aMSBAJAtxKH0b7n0H3C2/YLNdxS/JorcKODQQn\nFXCNH9bUX4eENOlOLcK2WzyGAwKBgQDF+Y21c2DRizOl4jqbjYI6OM1CYIWZ/MLJ\nhBZNxIWiRrqaM5rZwId+rjLoYkCcwmy6/sgkFelGGDXf2Df3zcbbNpILW1rcTRzQ\nCg6nW+9YL8MYG2DC5lIE4+upwlwE8ZufGk0PKkTu5xmEZWcmJ+kTrkaBVGUK1YJF\nNREcU0i29wKBgQC6RgLumUoRykmoYv674trI9tDHjvQUNGNK/MzT40RO7XZIQsln\nFoPKmV+c3Fc0SPKwcHm0C5nbAIFNuiu3QaENj4+QubFbxc42UBOL/unwfGKwY7Su\nFR3M72t2q/FXue3J7eSVmxI7gI+EgYT+cHVheg1G9/CjIoac84Wwvu4aWwKBgQCf\nYkv+G0eFK8aG9F0uwnxnlzdZCxBEasP/LMIwFdloTf0JDCbMzD3JdUEy6XcPPVAA\nNAK5WpKVhgRJlG9qp1ZDQenODtxVpBdgPdiSUGee3cT5cYEzJ+48Vapy3zDqIgGh\n07DaVrNsis12U5T5mQQCfjnxARrf4Aii4xhFb5+I/QKBgQDN1R57GkqQnnmjF0S1\n9W6gXfgrJuI3ZvN745O3GqbCMSqwl6GpUQaqoGz3bQv3Ce1pQvyCsnwnPaIPKh2Z\nFTeU8XgTCDh6UF4J4V9Uupy7mCOZPx2iB7ua/KnWR71X10HOcy/8bQsELLXIYBB6\nr4QuEPiw+bdrfSGsoQ7/S8jiSg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "e-commerce-classifier-project@appspot.gserviceaccount.com",
+  "client_id": "104754505286320356444",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/e-commerce-classifier-project%40appspot.gserviceaccount.com"
+}
